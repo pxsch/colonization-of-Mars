@@ -1,5 +1,10 @@
 h1 {
-   color: #ff0000
+   text-align: center;
+   color: #000000
+}
+h2 {
+   text-align: center;
+   color: #000000
 }
 
 form.login_form {
